@@ -1,0 +1,3 @@
+class objects extends Person
+
+}

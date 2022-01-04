@@ -1,0 +1,1 @@
+suitecrm-7.12.2,AGPL3,https://github.com/salesagility/SuiteCRM/archive/v7.12.2.tar.gz
